@@ -1,0 +1,10 @@
+{
+    "name": "Sergey",
+    "age": 25,
+    "skills": [
+        "python",
+        "sql",
+        "fifa2024"
+    ],
+    "city": "Moscow"
+}
